@@ -1,8 +1,12 @@
-baseurl = "haiduongnguyen.github.io"
+baseurl = "https://haiduongnguyen.github.io"
 title = "Hai Duong Nguyen"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
 paginate = 5000 #frontpage pagination
+googleAnalytics = "UA-111111111111-1"
+canonifyURLs = true
+# copyright = "Sebastian Pech"
+enableRobotsTXT = true
 
 [markup]
   [markup.goldmark]
