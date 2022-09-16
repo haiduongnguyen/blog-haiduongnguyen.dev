@@ -1,4 +1,4 @@
-baseurl = "https://github.com/haiduongnguyen/haiduongnguyen.github.io.git"
+baseurl = "https://github.com/haiduongnguyen/haiduongnguyen.github.io"
 title = "Hai Duong Nguyen"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
@@ -17,7 +17,7 @@ enableRobotsTXT = true
   header_image = "images/bg.jpg"
   title = "Software Engineering"
   slogan = "Dream need action to be come life"
-  SEOTitle = "Data Engineering"
+  SEOTitle = "Handsome Guy"
   keyword = "Data, Python, Life, Science, Gosship"
  
   # Sidebar settings
