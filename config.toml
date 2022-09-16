@@ -1,4 +1,4 @@
-baseurl = "https://github.com/haiduongnguyen/haiduongnguyen.github.io"
+baseurl = "https://haiduongnguyen.github.io"
 title = "Hai Duong Nguyen"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
