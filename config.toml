@@ -1,3 +1,4 @@
+baseurl = "https://haiduongnguyen.github.io.git"
 baseurl = "https://github.com/haiduongnguyen/haiduongnguyen.github.io.git"
 title = "Hai Duong Nguyen"
 theme = "hugo-theme-cleanwhite"
@@ -14,7 +15,7 @@ enableRobotsTXT = true
       unsafe = true
 
 [params]
-  header_image = "images/bg.jpg"
+  header_image = "images/header_bg.jpg"
   title = "Software Engineering"
   slogan = "Dream need action to be come life"
   SEOTitle = "Handsome Guy"
