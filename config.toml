@@ -1,4 +1,4 @@
-baseurl = "https://haiduongnguyen.github.io.git"
+# baseurl = "https://haiduongnguyen.github.io.git"
 baseurl = "https://github.com/haiduongnguyen/haiduongnguyen.github.io.git"
 title = "Hai Duong Nguyen"
 theme = "hugo-theme-cleanwhite"
